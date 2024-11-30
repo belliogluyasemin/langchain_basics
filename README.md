@@ -4,7 +4,6 @@ This notebook performs data analysis on the `bigquery-public-data.ga4_obfuscated
 
 ## Key Sections
 
-- **Library Imports**: Importing necessary libraries for data manipulation, visualization, and AI integration.
 
 - **Authentication Setup**: Retrieving secrets from GCP Secret Manager and setting up credentials for BigQuery and OpenAI.
 
