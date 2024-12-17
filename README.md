@@ -27,6 +27,4 @@ This notebook performs data analysis on the `bigquery-public-data.ga4_obfuscated
 
 - **Parallel and Branching Execution**: Demonstrating `RunnableParallel` and `RunnableBranch` for concurrent tasks and conditional logic.
 
----
 
-This concise markdown provides a brief overview of the main actions performed in the notebook.
